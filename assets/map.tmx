@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="2021.02.15" orientation="orthogonal" renderorder="left-up" width="12" height="12" tilewidth="24" tileheight="24" infinite="0" nextlayerid="4" nextobjectid="22">
+ <tileset firstgid="1" name="icons1" tilewidth="24" tileheight="24" tilecount="32" columns="8">
+  <image source="../gfx/icons1.png" width="192" height="96"/>
+ </tileset>
+ <layer id="1" name="tiles" width="12" height="12">
+  <data>
+   <tile gid="20"/>
+   <tile gid="28"/>
+   <tile gid="28"/>
+   <tile gid="20"/>
+   <tile gid="28"/>
+   <tile gid="20"/>
+   <tile gid="28"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="20"/>
+   <tile gid="28"/>
+   <tile gid="28"/>
+   <tile gid="28"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="4"/>
+   <tile gid="10"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="18"/>
+   <tile gid="4"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="28"/>
+   <tile gid="20"/>
+   <tile gid="28"/>
+   <tile gid="4"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="4"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="28"/>
+   <tile gid="4"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="28"/>
+   <tile gid="20"/>
+   <tile gid="4"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="4"/>
+   <tile gid="2"/>
+   <tile gid="4"/>
+   <tile gid="28"/>
+   <tile gid="28"/>
+   <tile gid="4"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="4"/>
+   <tile gid="28"/>
+   <tile gid="20"/>
+   <tile gid="4"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="18"/>
+   <tile gid="4"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="4"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="12"/>
+   <tile gid="10"/>
+   <tile gid="4"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="4"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="12"/>
+   <tile gid="2"/>
+   <tile gid="4"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="28"/>
+   <tile gid="28"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="20"/>
+   <tile gid="28"/>
+   <tile gid="28"/>
+   <tile gid="28"/>
+   <tile gid="28"/>
+   <tile gid="20"/>
+  </data>
+ </layer>
+ <objectgroup id="2" name="blocks">
+  <object id="15" name="red" x="151.246" y="175.396" width="12.6667" height="13.3333"/>
+  <object id="16" name="brown" x="198.06" y="196.855" width="12.6667" height="13.3333"/>
+  <object id="17" name="blue" x="175.448" y="150.574" width="12.6667" height="13.3333"/>
+  <object id="19" name="blue" x="123.783" y="100.646" width="12.6667" height="13.3333"/>
+  <object id="20" name="brown" x="102.656" y="222.043" width="12.6667" height="13.3333"/>
+  <object id="21" name="red" x="78.846" y="174.423" width="12.6667" height="13.3333"/>
+ </objectgroup>
+ <objectgroup id="3" name="player_position">
+  <object id="8" name="player" x="78.0193" y="103.671" width="9" height="8.5"/>
+ </objectgroup>
+</map>
